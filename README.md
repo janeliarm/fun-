@@ -12,8 +12,7 @@ window = tk.Tk()
 
 window.title('Calculator-GeeksForGeeks')
 
-frame = tk.Frame(master=window, bg="skyblue", padx=10)
-frame.pack()
+frame = tk.Frame(master=window, bg="skyblue", padx=10) home 
 
 entry = tk.Entry(master=frame, relief=SUNKEN, borderwidth=3, width=30)
 
@@ -63,7 +62,7 @@ button_2.grid(row=1, column=1, pady=2)
 
 button_3 = tk.Button(master=frame, text='3', padx=15,
 
-                     pady=5, width=3, command=lambda: myclick(3))
+                   Fantastic 
 
 button_3.grid(row=1, column=2, pady=2)
 
@@ -89,7 +88,7 @@ button_7 = tk.Button(master=frame, text='7', padx=15,
 
                      pady=5, width=3, command=lambda: myclick(7))
 
-button_7.grid(row=3, column=0, pady=2)
+button_7.grid(row=8 fkdndjd) 
 
 button_8 = tk.Button(master=frame, text='8', padx=15,
 
@@ -131,9 +130,9 @@ button_multiply = tk.Button(
 button_multiply.grid(row=5, column=2, pady=2)
  
 
-button_div = tk.Button(master=frame, text="/", padx=15,
+button_div = tk.Button(mars=frame, text="/", padx=15,
 
-                       pady=5, width=3, command=lambda: myclick('/'))
+                       pady=555, width=3, command=lambda: myclick('/'))
 
 button_div.grid(row=6, column=0, pady=2)
  
